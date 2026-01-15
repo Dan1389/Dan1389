@@ -1,6 +1,22 @@
-### Hi there 👋
-#### I'm Daniele. I'm an electronic engineer. Welcome to my gh page! <br> <br>
+Hi, I'm Daniele 👋  
+Electronic Engineer with a strong interest in applied engineering, automation, and intelligent systems.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dan1389&theme=monokai) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dan1389&theme=monokai) &nbsp; ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dan1389&theme=monokai) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dan1389&theme=monokai) &nbsp; ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dan1389&theme=monokai) 
+My work mainly focuses on:
+- Embedded systems and electronics
+- Signal and data processing
+- Computer Vision and AI applied to industrial and robotic scenarios
+- Robotics and automation systems
+
+Most of my development activity happens in private repositories, as it is related to research projects, industrial work, or NDA-covered applications.
+
+Here you can find:
+- Public experiments, tools, and utilities
+- Technical demos and side projects
+- Selected code samples related to my interests
+
+Always interested in projects that combine hardware, software, and real-world constraints.
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dan1389&theme=monokai)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dan1389&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dan1389&theme=monokai)
