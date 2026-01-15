@@ -16,4 +16,4 @@ Here you can find:
 
 Always interested in projects that combine hardware, software, and real-world constraints.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan1389&show_icons=true&theme=monokai&include_all_commits=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan1389)](https://github.com/anuraghazra/github-readme-stats)
