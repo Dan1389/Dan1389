@@ -16,7 +16,4 @@ Here you can find:
 
 Always interested in projects that combine hardware, software, and real-world constraints.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dan1389&theme=monokai)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dan1389&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dan1389&theme=monokai)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan1389&show_icons=true&theme=monokai&include_all_commits=true)
